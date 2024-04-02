@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 崔梓玉
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Ziyu Cui
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ziyu
+last_name: Cui
 
 # Status emoji
 status:
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD offer holder
 
 # Organizations/Affiliations to show in About widget
 organizations:
