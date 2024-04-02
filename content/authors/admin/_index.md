@@ -17,51 +17,51 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD offer holder
+role: Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University
-    url: https://www.stanford.edu/
+  - name: China University of Petroleum
+    url: https://www.cup.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Aggregation Induced Emission (AIE), Room-temperature phosphorescence (RTP), Long-persistent luminescence and Biomedical application.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Aggregation Induced Emission (AIE)
+  - Room-temperature phosphorescence (RTP)
+  - Long-persistent luminescence
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+# - course: PhD in Artificial Intelligence
+#  institution: Stanford University
+#  year: 2012**
+    - course: MSc in Theoretical and Computational Chemistry (distinction degree)
+      institution: University of Oxford
+      year: 2021-2020
+    - course: BSc in Applied Chemistry
+      institution: Dalian University of Technology
+      year: 2017-2021
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Gaussian
         description: ''
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: Microsoft Office
         description: ''
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Python
         description: ''
         percent: 40
         icon: database
@@ -112,13 +112,14 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+ # - icon: cv
+ #   icon_pack: ai
+ #   link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a part of the State Key Laboratory of Petroleum Resources and Engineering at China University of Petroleum, Beijing, focusing on pioneering research in aggregation-induced emission and organic room-temperature phosphorescent materials. As an University of Oxford graduate with distinction degree, I apply my academic foundation to explore innovative solutions in photonic materials, contributing to advances in energy-efficient technology.
+
 {style="text-align: justify;"}
