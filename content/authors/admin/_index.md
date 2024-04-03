@@ -29,8 +29,8 @@ bio: My research interests include Aggregation Induced Emission (AIE), Room-temp
 
 # Interests to show in About widget
 interests:
-  - Aggregation Induced Emission (AIE)
-  - Room-temperature phosphorescence (RTP)
+  - Aggregation Induced Emission 
+  - Room-temperature phosphorescence 
   - Long-persistent luminescence
 
 # Education to show in About widget
@@ -93,22 +93,22 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
+    link: 'mailto:ziyu0610@gmail.com'
+  - icon: instagram
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    link: https://www.instagram.com/czy_tweety/
+    label: Follow me on Instagram
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+    link: https://scholar.google.co.uk/
+  - icon: weixin
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: 
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: www.linkedin.com/in/ziyucui
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,6 +120,6 @@ social:
 highlight_name: true
 ---
 
-I am a part of the State Key Laboratory of Petroleum Resources and Engineering at China University of Petroleum, Beijing, focusing on pioneering research in aggregation-induced emission and organic room-temperature phosphorescent materials. As an University of Oxford graduate with distinction degree, I apply my academic foundation to explore innovative solutions in photonic materials, contributing to advances in energy-efficient technology.
+I am a part of the State Key Laboratory of Petroleum Resources and Engineering at China University of Petroleum, Beijing, focusing on pioneering research in aggregation-induced emission and organic room-temperature phosphorescent materials. As a University of Oxford graduate with a distinction degree, I apply my academic foundation to explore innovative solutions in photonic materials, contributing to advances in Biomedical application.
 
 {style="text-align: justify;"}
