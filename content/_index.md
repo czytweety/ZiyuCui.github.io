@@ -62,19 +62,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Researcher
+        - title: Administrator
           company:  State Key Laboratory of Petroleum Resources and Engineering
           company_url: 'https://www.cup.edu.cn/'
           company_logo: org-gc
           location: Beijing, China
           date_start: '2023'
           date_end: ''
-  #       description: |2-
-  #            Responsibilities include:
-  #
-  #           * Analysing
-  #           * Modelling
-  #           * Deploying
+          description: |2-
+               Responsibilities include:
+  
+              * Public platform management 
+              * Lab security
+              
         - title: Marketing Intern
           company: Wacker
           company_url: ''
@@ -82,7 +82,7 @@ sections:
           location: Shanghai, China
           date_start: '2023-02'
           date_end: '2023-03'
-  #        description: Taught electronic engineering and researched semiconductor physics.
+          description: Participate in the HIT project
     design:
       columns: '2'
   - block: accomplishments
