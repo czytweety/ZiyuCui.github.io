@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 崔梓玉
+title: 崔 梓 玉
 
 # Name pronunciation (optional)
-name_pronunciation: Ziyu Cui
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Ziyu
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Researcher
+role: Administrator
 
 # Organizations/Affiliations to show in About widget
 organizations:
