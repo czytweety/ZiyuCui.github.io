@@ -67,7 +67,7 @@ sections:
           company_url: 'https://www.cup.edu.cn/'
           company_logo: org-gc
           location: Beijing, China
-          date_start: '2023'
+          date_start: '2023-04-06'
           date_end: ''
           description: |2-
                Responsibilities include:
@@ -80,8 +80,8 @@ sections:
           company_url: ''
           company_logo: org-x
           location: Shanghai, China
-          date_start: '2023-02'
-          date_end: '2023-03'
+          date_start: '2023-02-01'
+          date_end: '2023-03-15'
           description: Participate in the HIT project
     design:
       columns: '2'
